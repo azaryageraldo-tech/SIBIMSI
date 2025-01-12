@@ -25,6 +25,8 @@
                 <label for="bab_pembahasan">Bab Pembahasan</label>
                 <select name="bab_pembahasan" id="bab_pembahasan" class="form-control" required>
                     <option hidden>-- Pilih Bab Pembahasan --</option>
+                    <option value="Bab 1">Bab 1</option>
+                    <option value="Bab 2">Bab 2</option>
                     <option value="Bab 3">Bab 3</option>
                     <option value="Bab 4">Bab 4</option>
                     <option value="Bab 5">Bab 5</option>

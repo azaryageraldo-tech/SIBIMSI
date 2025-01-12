@@ -1,5 +1,5 @@
 <!--====== Favicon Icon ======-->
-<link rel="shortcut icon" href="{{ url('logo-unib.png') }}" type="image/png">
+<link rel="shortcut icon" href="{{ url('UTDI-logo.png') }}" type="image/png">
 
 <!--====== Magnific Popup CSS ======-->
 <link rel="stylesheet" href="{{ url('frontend/assets/css/magnific-popup.css') }}">

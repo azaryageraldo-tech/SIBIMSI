@@ -16,9 +16,9 @@
         <div class="row justify-content-start">
             <div class="col-lg-6" style="padding-left: 60px">
                 <p>Nama : {{ Auth::user()->nama }}</p>
-                <p>NPM : {{ Auth::user()->mahasiswa->npm }}</p>
-                <p>Prodi : Informatika</p>
-                <p>Fakultas : Teknik</p>
+                <p>NIM : {{ Auth::user()->mahasiswa->npm }}</p>
+                <p>Prodi : SISTEM INFORMASI</p>
+                <p>Fakultas : TENOLOGI INFORMASI</p>
             </div>
             <div class="col-lg-6" style="padding-left: 90px">
                 @if ($dosen == 'Utama')

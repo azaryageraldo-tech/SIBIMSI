@@ -23,8 +23,8 @@
                 <input type="text" name="nama" id="nama" class="form-control" value="{{ old('nama') }}" placeholder="Masukkan Nama">
             </div>
             <div class="form-group">
-                <label for="nip">NIP</label>
-                <input type="text" name="nip" id="nip" class="form-control" value="{{ old('nip') }}" placeholder="Masukkan NIP">
+                <label for="nip">NIDN</label>
+                <input type="text" name="nip" id="nip" class="form-control" value="{{ old('nip') }}" placeholder="Masukkan NIDN">
             </div>
             <div class="form-group">
                 <label for="username">Username</label>

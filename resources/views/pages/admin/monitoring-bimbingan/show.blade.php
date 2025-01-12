@@ -19,7 +19,7 @@
                 <thead>
                     <tr class="text-center">
                         <th>No</th>
-                        <th>NPM</th>
+                        <th>NIM</th>
                         <th>Nama</th>
                         <th>Dosen</th>
                         <th>Status</th>

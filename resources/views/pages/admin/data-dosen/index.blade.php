@@ -18,7 +18,7 @@
                 <thead>
                     <tr class="text-center">
                         <th>No</th>
-                        <th>NIP</th>
+                        <th>NIDN</th>
                         <th>Nama</th>
                         <th>Prodi</th>
                         <th>Fakultas</th>

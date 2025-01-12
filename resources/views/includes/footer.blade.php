@@ -4,7 +4,7 @@
             <span>Copyright &copy; <script>
                     document.write(new Date().getFullYear());
                 </script> - Developed by
-                <b><a href="#" target="_blank">Kuli Koding'19</a></b>
+                <b><a href="#" target="_blank">UTDI</a></b>
             </span>
         </div>
     </div>

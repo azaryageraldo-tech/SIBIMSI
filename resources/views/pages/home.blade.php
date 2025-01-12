@@ -9,7 +9,7 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="slider-content">
-                                <h1 class="title">Informatika FTUNIB</h1>
+                                <h1 class="title">PRODI SISTEM INFORMASI</h1>
                                 <p class="text">Sistem Informasi Bimbingan Skripsi Sebagai Platform Untuk Mempermudah Mahasiswa Dalam Melakukan Bimbingan Skripsi Menuju Seminar Hasil</p>
                             </div>
                         </div>

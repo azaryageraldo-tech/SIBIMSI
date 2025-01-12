@@ -24,8 +24,8 @@
                 <input type="text" name="nama" id="nama" class="form-control" value="{{ $item->user->nama }}" placeholder="Masukkan Nama">
             </div>
             <div class="form-group">
-                <label for="npm">NPM</label>
-                <input type="text" name="npm" id="npm" class="form-control" value="{{ $item->npm }}" placeholder="Masukkan NPM">
+                <label for="npm">NIM</label>
+                <input type="text" name="npm" id="npm" class="form-control" value="{{ $item->npm }}" placeholder="Masukkan NIM">
             </div>
             <div class="form-group">
                 <label for="username">Username</label>

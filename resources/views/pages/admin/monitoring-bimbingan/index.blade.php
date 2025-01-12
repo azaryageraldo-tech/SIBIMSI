@@ -16,7 +16,7 @@
                 <thead>
                     <tr class="text-center">
                         <th>No</th>
-                        <th>NPM</th>
+                        <th>NIM</th>
                         <th>Nama</th>
                         <th>Dosen Pembimbing 1</th>
                         <th>Dosen Pembimbing 2</th>

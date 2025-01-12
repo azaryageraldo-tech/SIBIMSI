@@ -5,7 +5,7 @@
                 <nav class="navbar navbar-expand-lg">
 
                     <a class="navbar-brand" href="#">
-                        <img src="{{ url('logo-unib.png') }}" alt="Logo" width="100">
+                        <img src="{{ url('UTDI-logo.png') }}" alt="Logo" width="100">
                     </a>
 
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTwo" aria-controls="navbarTwo" aria-expanded="false" aria-label="Toggle navigation">

@@ -26,7 +26,7 @@
             </div>
 
             <div class="mt-4">
-                <x-label for="npm" :value="__('NPM')" />
+                <x-label for="npm" :value="__('NIM')" />
 
                 <x-input id="npm" class="block mt-1 w-full" type="text" name="npm" :value="old('npm')" required autofocus />
             </div>
